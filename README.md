@@ -8,5 +8,5 @@ DEB.SURY.ORG now has official Twitter account [@debsuryorg](https://twitter.com/
 The PHP packaging is time consuming and I do this mostly in my free time. Please consider donating if you find the PHP packages useful for your projects or your business. It also warms a heart to know that this project is useful.
 
 * You can support me on regular basis via Patreon: https://www.patreon.com/oerdnj
-* To make a donation via Paypal, use Donate button on my webpage: https://deb.sury.org/pages/donate.html
+* To make a donation via Paypal, use Donate button on my webpage: https://donate.sury.org
 * Bitcoin donate address: 15WRQCrVHWUdcn3sbT7PF6u2FJGfbb8GW5
