@@ -1,6 +1,6 @@
 * ppa:ondrej/php and https://packages.sury.org/php/ issue tracker
 
-This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1+)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
+This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1 and 7.2)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
 
 Please submit bug reports and feature request about the PPA as [issues here](https://github.com/oerdnj/deb.sury.org/issues).   Please report any bugs or feature requests here, since my INBOX is a not very reliable way how to keep track on all issues since it has the tendency to grow number of unread messages to numbers over thousand...
 
