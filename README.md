@@ -11,3 +11,5 @@ The PHP packaging is time consuming and I do this mostly in my free time. Please
 * You can support me on regular basis via Patreon: https://www.patreon.com/oerdnj
 * To make a donation via Paypal, use Donate button on my webpage: https://donate.sury.org
 * Bitcoin donate address: `15WRQCrVHWUdcn3sbT7PF6u2FJGfbb8GW5`
+
+Open Slack workspace: https://join.slack.com/t/debsuryorg/shared_invite/enQtNDUzMDY2MDc5MDkzLWJmN2VlNWZlMjZmZTgwMDA0YjEwNTA1ZWY0YTgyNGM3OTVlNzlmZWNjNTgxZTlmMDMzY2FiZTk0ODFkZmY2NmU
