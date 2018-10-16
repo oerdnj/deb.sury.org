@@ -1,6 +1,6 @@
 * ppa:ondrej/php and https://packages.sury.org/php/ issue tracker
 
-This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1 and 7.2)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
+This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1, 7.2 and 7.3)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
 
 Please submit bug reports and feature request about the PPA as [issues here](https://github.com/oerdnj/deb.sury.org/issues).   Please report any bugs or feature requests here, since my INBOX is a not very reliable way how to keep track on all issues since it has the tendency to grow number of unread messages to numbers over thousand...
 
@@ -11,5 +11,6 @@ The PHP packaging is time consuming and I do this mostly in my free time. Please
 * You can support me on regular basis via Patreon: https://www.patreon.com/oerdnj
 * To make a donation via Paypal, use Donate button on my webpage: https://donate.sury.org
 * Bitcoin donate address: `15WRQCrVHWUdcn3sbT7PF6u2FJGfbb8GW5`
+* Monero donate address: `4KHuiHeZjRpJXvtQEotymnKyGN3dvCsokQvaCqV6jrxmDubLt6WVyQXVezi1PJi8c1Sw1PbXfYd5xDXE243Whj13Gf15J1uWRtdFc6tk5Q`
 
 Open Slack workspace: [DEB.SURY.ORG](https://join.slack.com/t/debsuryorg/shared_invite/enQtNDUzMDY2MDc5MDkzLWJmN2VlNWZlMjZmZTgwMDA0YjEwNTA1ZWY0YTgyNGM3OTVlNzlmZWNjNTgxZTlmMDMzY2FiZTk0ODFkZmY2NmU)
