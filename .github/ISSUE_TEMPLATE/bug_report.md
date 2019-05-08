@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Unsupported distributions**
+ - [ ] I'm *not* using [Ubuntu Trusty (14.04)](https://www.patreon.com/posts/ubuntu-14-04-php-22093917)
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
