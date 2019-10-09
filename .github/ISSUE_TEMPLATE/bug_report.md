@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 **Unsupported distributions**
- - [ ] I'm *not* using [Ubuntu Trusty (14.04)](https://www.patreon.com/posts/ubuntu-14-04-php-22093917)
+ - [ ] I'm *not* using [Ubuntu Trusty (14.04)](https://www.patreon.com/posts/private-ubuntu-30596045)
+
+**Extensions for unreleased PHP version**
+- [ ] I'm *not* requesting PECL extensions for pre-release version of PHP (PHP 7.4.0 is OK, PHP 7.4.0RC is not)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
