@@ -16,6 +16,12 @@ A clear and concise description of what you want to happen.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
+Please understand that this issue tracker is specifically meant to report issues with the packages and with the repositories. I won't teach you the basics of system administration, I won't help you with bugs in the software itself. For both, there are better sites where are people with more free time that allows them to be more friendly to newcomers.
+
+Please make sure you read [Dear anonymous internet user asking for help...](https://berthub.eu/articles/posts/anonymous-help/) by Bert Hubert and [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) by Simon Tatham.
+
+If you understand the purpose of this issue tracker and describe your **request** accurately (where the template below will help), I might be able to help you.
+
 **Distribution (please complete the following information):**
  - OS: [e.g. Debian or Ubuntu]
  - Architecture: [e.g. amd64 or armhf or ...]
