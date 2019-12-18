@@ -10,8 +10,8 @@ assignees: ''
 **Unsupported distributions**
  - [ ] I'm *not* using [Ubuntu Trusty (14.04)](https://www.patreon.com/posts/private-ubuntu-30596045)
 
-**Extensions for unreleased PHP version**
-- [ ] I'm *not* requesting PECL extensions for pre-release version of PHP (PHP 7.4.0 is OK, PHP 7.4.0RC is not)
+**Excessive usage of the repositories**
+- [ ] I'm am not abusing the repositories to download excessive numbers of packages per day, or checking repository more than once an hour (like every minute) (see https://packages.sury.org/error403.html).
 
 **Describe the bug**
 A clear and concise description of what the bug is.
