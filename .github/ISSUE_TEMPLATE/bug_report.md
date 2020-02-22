@@ -7,11 +7,9 @@ assignees: ''
 
 ---
 
-**Unsupported distributions**
- - [ ] I'm *not* using [Ubuntu Trusty (14.04)](https://www.patreon.com/posts/private-ubuntu-30596045)
+**Frequently asked questions**
 
-**Repository mirroring**
-- [ ] I'm *not* trying to mirror the repositories using wget, curl, mozilla. If I am mirroring the packages.sury.org repository, I am properly using [rsync](https://www.patreon.com/posts/use-rsync-luke-32563640) to minimize the traffic.
+- [ ] I have read [Frequenty Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
