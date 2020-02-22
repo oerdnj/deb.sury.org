@@ -20,3 +20,5 @@ The PHP packaging is time consuming and I do this mostly in my free time. Please
 * Monero donate address: `4KHuiHeZjRpJXvtQEotymnKyGN3dvCsokQvaCqV6jrxmDubLt6WVyQXVezi1PJi8c1Sw1PbXfYd5xDXE243Whj13Gf15J1uWRtdFc6tk5Q`
 
 Open Slack workspace: [DEB.SURY.ORG](https://join.slack.com/t/debsuryorg/shared_invite/enQtNTY2MTg0MDg2NjI4LWEwNDliMWIyY2U0OWJjOTQ1YzFhNzc3OGMzY2U4NWM5MDE4OWJhNGE2OTNhNDkwZDkzNzY2ZWNiMzgyY2Y5ZTI)
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
