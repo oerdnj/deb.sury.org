@@ -1,4 +1,4 @@
-# DEB.SURY.ORG APT Repository Issue Tracker
+# [DEB.SURY.ORG](https://deb.sury.org) APT Repository Issue Tracker
 
 ## Frequently Asked Questions
 
