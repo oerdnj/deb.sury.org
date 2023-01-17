@@ -11,6 +11,7 @@ assignees: ''
 
 - [ ] I have read [Frequently Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions)
 - [ ] I have looked at the list of the existing issues (including closed issues) and searched if my issue has been already reported
+- [ ] I have tried to resolve the issue myself and will describe what I did in clear and consise manner
 
 **Describe the bug**
 A clear and concise description of what the bug is.
