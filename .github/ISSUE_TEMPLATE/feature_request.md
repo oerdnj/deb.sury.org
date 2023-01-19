@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for this project - if you don't use the template, the issue will be closed possibly even without a comment
 title: ''
 labels: ''
 assignees: ''
