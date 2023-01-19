@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: IMPORTANT: if you don't use the template, the issue will be closed possibly even without a comment
+about: "**WARNING**: if you don't use the template, the issue will be closed possibly even without a comment"
 title: ''
 labels: ''
 assignees: ''
