@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: "*** WARNING if you don't use the template, the issue will be closed possibly even without a comment WARNING ***"
+about: "**WARNING**: if you don't use the template, the issue will be closed possibly even without a comment WARNING"
 title: ''
 labels: ''
 assignees: ''
