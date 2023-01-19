@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve - if you don't use the template, the issue will be closed possibly even without a comment
 title: ''
 labels: ''
 assignees: ''
