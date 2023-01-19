@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: **IMPORTANT**: if you don't use the template, the issue will be closed possibly even without a comment
+about: IMPORTANT: if you don't use the template, the issue will be closed possibly even without a comment
 title: ''
 labels: ''
 assignees: ''
