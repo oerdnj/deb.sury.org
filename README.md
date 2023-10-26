@@ -6,7 +6,7 @@ Read [Frequently Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Fr
 
 ## Issue tracker
 
-This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0, 8.1 and 8.2)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
+This GitHub project is the issue tracker of [PPA for PHP (5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2 and 8.3)](https://launchpad.net/~ondrej/+archive/ubuntu/php).
 
 Please submit bug reports and feature request about the PPA as [issues here](https://github.com/oerdnj/deb.sury.org/issues).   Please report any bugs or feature requests here, since my INBOX is a not very reliable way how to keep track on all issues since it has the tendency to grow number of unread messages to numbers over thousand...
 
