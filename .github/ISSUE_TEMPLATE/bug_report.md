@@ -11,7 +11,7 @@ assignees: ''
 
 - [ ] I have read [Frequently Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions)
 - [ ] I have looked at the list of the existing issues (including closed issues) and searched if my issue has been already reported
-- [ ] I have tried to resolve the issue myself and will describe what I did in clear and consise manner
+- [ ] I have tried to resolve the issue myself and will describe what I did in clear and concise manner
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -36,7 +36,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **Your understanding of what is happening**
-Try to describe how do you understand what is happending and why is it happening.
+Try to describe how do you understand what is happening and why is it happening.
 
 **What steps did you take to resolve issue yourself before reporting it here**
 Describe how did you try to resolve the issue yourself.  This is closely connected to the previous question.

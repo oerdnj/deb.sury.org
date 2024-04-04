@@ -9,7 +9,7 @@ assignees: ''
 
 **Frequently asked questions**
 
-- [ ] I have read [Frequenty Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions)
+- [ ] I have read [Frequently Asked Questions](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
